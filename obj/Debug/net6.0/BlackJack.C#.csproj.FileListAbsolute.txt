@@ -1,0 +1,15 @@
+C:\Users\Kerdm\OneDrive\เอกสาร\BlackJack.C#\bin\Debug\net6.0\BlackJack.C#.exe
+C:\Users\Kerdm\OneDrive\เอกสาร\BlackJack.C#\bin\Debug\net6.0\BlackJack.C#.deps.json
+C:\Users\Kerdm\OneDrive\เอกสาร\BlackJack.C#\bin\Debug\net6.0\BlackJack.C#.runtimeconfig.json
+C:\Users\Kerdm\OneDrive\เอกสาร\BlackJack.C#\bin\Debug\net6.0\BlackJack.C#.dll
+C:\Users\Kerdm\OneDrive\เอกสาร\BlackJack.C#\bin\Debug\net6.0\BlackJack.C#.pdb
+C:\Users\Kerdm\OneDrive\เอกสาร\BlackJack.C#\obj\Debug\net6.0\BlackJack.C#.csproj.AssemblyReference.cache
+C:\Users\Kerdm\OneDrive\เอกสาร\BlackJack.C#\obj\Debug\net6.0\BlackJack.C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kerdm\OneDrive\เอกสาร\BlackJack.C#\obj\Debug\net6.0\BlackJack.C#.AssemblyInfoInputs.cache
+C:\Users\Kerdm\OneDrive\เอกสาร\BlackJack.C#\obj\Debug\net6.0\BlackJack.C#.AssemblyInfo.cs
+C:\Users\Kerdm\OneDrive\เอกสาร\BlackJack.C#\obj\Debug\net6.0\BlackJack.C#.csproj.CoreCompileInputs.cache
+C:\Users\Kerdm\OneDrive\เอกสาร\BlackJack.C#\obj\Debug\net6.0\BlackJack.C#.dll
+C:\Users\Kerdm\OneDrive\เอกสาร\BlackJack.C#\obj\Debug\net6.0\refint\BlackJack.C#.dll
+C:\Users\Kerdm\OneDrive\เอกสาร\BlackJack.C#\obj\Debug\net6.0\BlackJack.C#.pdb
+C:\Users\Kerdm\OneDrive\เอกสาร\BlackJack.C#\obj\Debug\net6.0\BlackJack.C#.genruntimeconfig.cache
+C:\Users\Kerdm\OneDrive\เอกสาร\BlackJack.C#\obj\Debug\net6.0\ref\BlackJack.C#.dll
